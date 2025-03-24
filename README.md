@@ -1,4 +1,5 @@
 🚀 Data Science Enthusiast | AI & GIS Innovator | Backend Developer
+
 👋 Hey there! I'm Vansh Sharma, a Data Science student with a strong foundation in C, C++, Python, Algorithms, and Backend Development. I focus on building scalable, efficient, and secure systems, integrating AI and GIS for real-world solutions.
 🔍 Areas of Expertise:
 ✅ Data Structures & Algorithms (C/C++, Python)
