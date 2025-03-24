@@ -1,12 +1,18 @@
-- 👋 Hi, I’m Vansh Sharma
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning B.Sc (Data Science) at ICFAI University Dehradun
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Data Science Enthusiast | AI & GIS Innovator | Backend Developer
+👋 Hey there! I'm Vansh Sharma, a Data Science student with a strong foundation in C, C++, Python, Algorithms, and Backend Development. I focus on building scalable, efficient, and secure systems, integrating AI and GIS for real-world solutions.
+🔍 Areas of Expertise:
+✅ Data Structures & Algorithms (C/C++, Python)
+✅ AI & Machine Learning (Facial Recognition, Model Optimization)
+✅ Secure System Architectures (Custom OTP, User Authentication)
+✅ GIS & Spatial Data Analytics (Data-driven Decision Making)
+✅ Backend Development & Linux Optimization
 
-<!---
-sharmaji0411/sharmaji0411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I’m Working On:
+📌 Building AI-powered facial recognition systems for authentication 🔐
+📌 Integrating GIS with Data Science for spatial analytics 🗺️
+📌 Developing high-performance, secure backend solutions ⚙️
+📌 Optimizing AI models with Python & C++ for real-time applications 🏎️
+
+💡 Passionate about AI-driven solutions, system security, and advanced computing techniques, I’m always exploring innovative ways to push boundaries.
+
+🚀 Let’s connect, collaborate, and build something awesome together! 🤝
